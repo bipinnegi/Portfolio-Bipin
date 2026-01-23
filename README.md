@@ -20,7 +20,7 @@ I enjoy working on production-grade systems, clean architecture, and cloud deplo
 
 ## 🚀 Live Demo
 
-_(Add link once deployed)_
+https://bipinnegi.github.io/Portfolio-Bipin/
 
 
 ---
@@ -59,7 +59,7 @@ _(Add link once deployed)_
 ---
 
 ## 📂 Project Structure
-
+```
 src/
 ├── app/
 │ ├── navbar.component.ts
@@ -79,7 +79,7 @@ src/
 ├── styles.css
 ├── main.ts
 └── index.html
-
+```
 
 ---
 
@@ -94,7 +94,7 @@ src/
 ```bash
 npm install
 ng serve
-
+```
 
 Open in browser:
 
@@ -108,7 +108,6 @@ GitHub Pages
 
 Azure Static Web Apps
 
-(Deployment steps can be added separately.)
 
 📄 Resume
 
